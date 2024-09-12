@@ -1,0 +1,39 @@
+.infocontainer {
+  position: relative;
+  top: -60px;
+  right: -1100px;
+}
+
+a {
+  padding-inline-start: 8%;
+  color: white;
+}
+
+h1 {
+  padding-top: 30px;
+}
+p {
+  padding-top: -200px;
+}
+
+body {
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url(../imgs/showback.webp);
+}
+
+header {
+  box-sizing: border-box;
+  margin: 0;
+  background-color: #910e86;
+}
+
+.menu {
+  padding-top: 180px;
+  text-align: center;
+  background-color: salmon;
+  border-radius: 30px;
+  width: 600px;
+  height: 100px;
+  margin-left: 600px;
+}
